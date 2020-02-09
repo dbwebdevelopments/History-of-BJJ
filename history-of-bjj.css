@@ -1,0 +1,22 @@
+header{
+	background-color: burlywood;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 30px;
+	font-family: 'Ubuntu', sans-serif;
+} 
+
+
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+body{
+	background-color: burlywood;
+	font-family: 'Ubuntu', sans-serif;
+}
